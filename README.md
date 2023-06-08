@@ -118,11 +118,7 @@ SO THAT I can consistently learn about new subjects
 
 ## Contact
 
-Repository
 
-> [https://github.com/JABOWG/wise-guide/tree/main](https://github.com/JABOWG/wise-guide/tree/main)
-
----
 
 Abdelrahman Ahmed
 
